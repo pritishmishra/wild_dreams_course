@@ -10,6 +10,7 @@ A to-do list which is too random to imagine and too difficult to complete
 - [Kubernetes Architecture - official community doc](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture.md)
 - [Kubernetes Community](https://github.com/kubernetes/community/)
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [Getting a production grade Kubernetes cluster up and running](https://github.com/kubernetes/kops)
 
 # 3. Graph Algorithms
 - [Thomas Cormen's Introduction to Algorithms](http://is.ptithcm.edu.vn/~tdhuy/Programming/Introduction.to.Algorithms.pdf) 
