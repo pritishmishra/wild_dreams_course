@@ -6,6 +6,7 @@ A to-do list which is too random to imagine and too difficult to complete
 
 # 2. Kubernetes
 - [Paper 1: Borg, Omega & Kubernetes](https://research.google.com/pubs/pub44843.html)
+- [Kubernetes Webinars](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
 - [Kubernetes Architecture - brief info](https://x-team.com/blog/introduction-kubernetes-architecture/)
 - [Kubernetes Architecture - official community doc](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture.md)
 - [Kubernetes Community](https://github.com/kubernetes/community/)
